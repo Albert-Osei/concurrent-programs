@@ -1,3 +1,3 @@
 # Concurrent Programs
 
-A collection of parellel program problems and algorithms implementations
+A collection of parellel programming problems and algorithms implementations
